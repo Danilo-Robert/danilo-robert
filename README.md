@@ -135,7 +135,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-o
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Danilo-Robert&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
