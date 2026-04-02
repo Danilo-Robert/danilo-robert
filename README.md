@@ -26,6 +26,22 @@ Me chamo Danilo Robert. Atualmente, estou cursando Ciências da Computação. Se
 />
 <img 
     align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
     width="30px" 
@@ -82,6 +98,14 @@ Me chamo Danilo Robert. Atualmente, estou cursando Ciências da Computação. Se
 />
 <img 
     align="left" 
+    alt="Vue" 
+    title="Vue"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+ />
+<img 
+    align="left" 
     alt="Angular"
     title="Angular" 
     width="30px" 
@@ -113,7 +137,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-o
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
     />
 
-
+    
 <br/>
 <br/>
 
