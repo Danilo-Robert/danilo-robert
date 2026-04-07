@@ -143,5 +143,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-o
 
 ### 📊 Estatísticas
 
-![GitHub Stats](./profile/stats.svg)
-![Top Langs](./profile/top-langs.svg)
+<p align="left">
+  <img src="./github-metrics.svg" />
+</p>
