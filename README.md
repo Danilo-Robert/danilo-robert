@@ -143,5 +143,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-o
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danilo-Robert&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Robert&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Danilo-Robert&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Robert&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+
+### 🏆 Destaques
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Danilo-Robert&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
